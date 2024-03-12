@@ -1,6 +1,7 @@
 {
   "name": "discord-clone-node",
   "version": "1.0.0",
+  "type":"module",
   "description": "web 3.0 blockchain discord app",
   "main": "server.js",
   "scripts": {
@@ -13,5 +14,10 @@
     "gunjs"
   ],
   "author": "Naveenmathramkott",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "gun": "^0.2020.1239"
+  }
 }
