@@ -1,0 +1,17 @@
+{
+  "name": "discord-clone-node",
+  "version": "1.0.0",
+  "description": "web 3.0 blockchain discord app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "3.0",
+    "blockchain",
+    "gunjs"
+  ],
+  "author": "Naveenmathramkott",
+  "license": "ISC"
+}
