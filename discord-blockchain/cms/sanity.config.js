@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'discord-clone',
 
-  projectId: 'bedbfw11',
+  projectId: 'muh6r8as',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
