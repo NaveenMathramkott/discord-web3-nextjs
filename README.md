@@ -1,6 +1,6 @@
 # Discord Clone Next JS app
 
-Real-time communication application with MetaMask authentication.
+Decentralised discord clone application with MetaMask authentication.
 
 ## Tech Stack
 
