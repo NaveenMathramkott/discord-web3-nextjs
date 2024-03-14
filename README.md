@@ -34,6 +34,6 @@ NEXT_PUBLIC_SANITY_TOKEN =
 ```
 
 ### ScreenShots
-![](https://github.com/NaveenMathramkott/discord-web3-nextjs/tree/main/discord-blockchain/screenshots/discord-landing-page.png)
+![](https://github.com/NaveenMathramkott/discord-web3-nextjs/blob/main/discord-blockchain/screenshots/discord-landing-page.png)
 
 ## Start the app 
