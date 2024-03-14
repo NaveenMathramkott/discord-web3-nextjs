@@ -20,7 +20,7 @@ https://github.com/NaveenMathramkott/discord-web3-nextjs.git
 
 server :
 ```bash
-NEXT_PUBLIC_API_URL = http://localhost:3000/api
+NEXT_PUBLIC_API_URL = http://--------{url}-----/api
 NEXT_PUBLIC_SANITY_PROJECT_ID = 
 NEXT_PUBLIC_SANITY_TOKEN = 
 ```
