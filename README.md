@@ -33,4 +33,7 @@ NEXT_PUBLIC_SANITY_TOKEN =
   cd cms /npm install / sanity start
 ```
 
+### ScreenShots
+![](https://github.com/NaveenMathramkott/discord-web3-nextjs/tree/main/discord-blockchain/screenshots/discord-landing-page.png)
+
 ## Start the app 
