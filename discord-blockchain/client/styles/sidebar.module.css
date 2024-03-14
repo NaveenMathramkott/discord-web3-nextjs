@@ -1,0 +1,13 @@
+.wrapper {
+  height: 100%;
+  overflow-y: scroll;
+  position: relative;
+  flex: 1;
+  padding-top: 10px;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.wrapper::-webkit-scrollbar {
+  display: none;
+}

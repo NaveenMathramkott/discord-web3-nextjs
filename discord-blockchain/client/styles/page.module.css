@@ -12,4 +12,10 @@
   background: var(--light-grey);
   display: flex;
   width: 100vw;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.main::-webkit-scrollbar {
+  display: none;
 }
